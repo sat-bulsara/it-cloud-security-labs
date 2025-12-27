@@ -52,21 +52,83 @@ winver
 
 ---
 
-## 6. Screenshots Required
+## 6. Screenshots (Embedded Evidence)
 
-> All screenshots are stored in `00-setup/screenshots/`
+> All screenshots are **embedded directly in this README** to keep documentation and evidence in one place.
+> Filenames are preserved for clarity, but no separate screenshots folder is required.
 
-* [ ] `00_Windows11_FreshVM_Setup.png`
-* [ ] `00_Windows11_Baseline_Snapshot.png`
-* [ ] `00_Windows11_WinVer.png`
-* [ ] `00_Windows11_System_Properties.png`
-* [ ] `00_Windows11_PC_Rename.png`
-* [ ] `00_Windows11_Renamed_Snapshot.png`
-* [ ] `00_Ubuntu_VM_Setup.png`
-* [ ] `00_Ubuntu_First_Login.png`
-* [ ] `00_Ubuntu_Baseline_Snapshot.png`
+### Windows 11 — Fresh VM Setup
+
+**Filename:** `00_Windows11_FreshVM_Setup.png`
+
+<!-- PLACE SCREENSHOT BELOW -->
+<img width="879" height="585" alt="Screenshot 2025-12-27 at 18 15 37" src="https://github.com/user-attachments/assets/6cd35696-4efe-40c9-a287-0d668e5a684e" />
 
 ---
+
+### Windows 11 — Clean Baseline Snapshot
+
+**Filename:** `00_Windows11_Baseline_Snapshot.png`
+
+<!-- PLACE SCREENSHOT BELOW -->
+
+<img width="1916" height="1079" alt="Screenshot 2025-12-27 at 18 19 41" src="https://github.com/user-attachments/assets/7d509bef-5380-41f3-a2a9-48c9f94bd85b" />
+
+---
+
+### Windows 11 — Version Verification (winver)
+
+**Filename:** `00_Windows11_WinVer.png`
+
+<!-- PLACE SCREENSHOT BELOW -->
+
+---
+
+### Windows 11 — System Properties (CPU / RAM / ARM)
+
+**Filename:** `00_Windows11_System_Properties.png`
+
+<!-- PLACE SCREENSHOT BELOW -->
+<img width="1916" height="1079" alt="Screenshot 2025-12-27 at 18 20 27" src="https://github.com/user-attachments/assets/50d3489b-c8e8-4a9c-b8e5-ba41af04b4b6" />
+
+---
+
+### Windows 11 — PC Rename
+
+**Filename:** `00_Windows11_PC_Rename.png`
+
+<!-- PLACE SCREENSHOT BELOW -->
+
+---
+
+### Windows 11 — Post-Rename Snapshot
+
+**Filename:** `00_Windows11_Renamed_Snapshot.png`
+
+<!-- PLACE SCREENSHOT BELOW -->
+<img width="1916" height="1079" alt="Screenshot 2025-12-27 at 18 22 21" src="https://github.com/user-attachments/assets/ee95d072-0f47-4eb9-a4aa-ed7c34cea2ec" />
+
+---
+
+### Ubuntu — VM Setup
+
+**Filename:** `00_Ubuntu_VM_Setup.png`
+
+<!-- PLACE SCREENSHOT BELOW -->
+<img width="1916" height="1079" alt="Screenshot 2025-12-27 at 18 43 06" src="https://github.com/user-attachments/assets/b0dabcf1-dacb-4472-9b11-0ca940f8b5c4" />
+
+---
+
+### Ubuntu — First Login
+
+**Filename:** `00_Ubuntu_First_Login.png`
+
+<!-- PLACE SCREENSHOT BELOW -->
+<img width="1916" height="1079" alt="Screenshot 2025-12-27 at 18 53 32" src="https://github.com/user-attachments/assets/fa3f23f8-1a04-4d76-aff0-53583a181b7b" />
+
+---
+
+
 
 ## 7. Validation / Completion Criteria
 
@@ -105,4 +167,3 @@ winver
 ---
 
 📌 **Next Labs:** All future labs will start by reverting to one of these baseline snapshots.
-
